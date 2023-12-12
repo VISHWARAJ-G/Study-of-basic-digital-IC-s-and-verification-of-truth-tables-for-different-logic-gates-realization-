@@ -73,10 +73,10 @@ endmodule
 ````
 Logic symbol :
 ![OUTPUT OF GATES](https://github.com/VISHWARAJ-G/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/140417431/87a74083-af9b-4964-8826-a7544e551b4d)
-````
+
 Truthtable :
 ![Screenshot (63)](https://github.com/VISHWARAJ-G/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/140417431/c8592969-ec4c-4b78-ac53-39376dfa3b7c)
-````
+
 
 RTL realization
 Output:
