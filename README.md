@@ -78,7 +78,8 @@ endmodule
 ![Screenshot (63)](https://github.com/VISHWARAJ-G/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/140417431/c8592969-ec4c-4b78-ac53-39376dfa3b7c)
 ## RTL realization
 # Output:
-![RTL OF GATES (2)](https://github.com/VISHWARAJ-G/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/140417431/5b8a791f-968e-4c5e-bea2-7f0f39d66825)
+![RTL OF GATES](https://github.com/VISHWARAJ-G/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/140417431/cc251489-b532-4a25-b04e-a5bbe38a5ec2)
+
 
 
 ## Result:
